@@ -2,9 +2,7 @@ list my favorite foods from Indonesia
 -garang asem
 -nasi padang
 -nasi goreng jepang bogor
--ayam bakar lio
 
 list my favorite snacks from Indonesia
--onde-onde
--kue rangi
--brem
+-kripik singkong balado
+-gorengan
